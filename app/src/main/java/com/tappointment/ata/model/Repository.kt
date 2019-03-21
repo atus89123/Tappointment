@@ -1,7 +1,6 @@
 package com.tappointment.ata.model
 
 import com.tappointment.ata.entity.MainResult
-import com.tappointment.ata.entity.PostObject
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
